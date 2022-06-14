@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hola nerd
 djjjjj+ç
 ssjs
@@ -5,3 +6,8 @@ ssjs
 Has roto el teclado? 
 
 gukhgyhu
+=======
+like
+kkkk
+hello
+>>>>>>> 71ae663d46cf8ca11db3f4999b646640238a796b
